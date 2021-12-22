@@ -1,1 +1,1 @@
-# S11-Anzahl-der-Zahlen-zwischen-5-und-10
+# S08-Array-Even-Sum
