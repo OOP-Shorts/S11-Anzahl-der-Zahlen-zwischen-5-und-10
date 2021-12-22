@@ -5,6 +5,10 @@ public class NumBetween5And10 {
         davon, ob die übergebene Zahl zwischen 5 und 10 liegt (5 und 10 eingeschlossen)
      */
     public static boolean intNumBetween5And10(int value) {
+        if(value >= 5 && value <= 10) {
+            return true;
+        }
+
         return false;
     }
 
